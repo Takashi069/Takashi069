@@ -1,9 +1,10 @@
+# 💫 Here's Something about me:
+
 <div align="center">
-  <img src="https://github.com/Takashi069/Takashi069/blob/main/giphy.gif" width="100%" alt="Cool GIF!" />
+  <img src="https://github.com/Takashi069/Takashi069/blob/main/giphy.gif" alt="Cool GIF!" />
 </div>
 <br/>
 
-# 💫 Here's Something about me:
 🔭 I’m currently engaged in web development with a focus on learning backend services <br>👯 I’m open to collaborate on any project web related<br>🤝 Any suggestions and tips on backend development would be helpful<br>🌱 I’m currently learning about machine learning 🤖 and how to tie it with web development<br>💬 Ask me about anything web related and I'll try to help<br>⚡ Here's a random fact about me ➡️ I cannot swim 🌊 (yet 😅)
 > ⚔️ Another Fun Fact ⚔️<br>
 > Is often inspired by: 
