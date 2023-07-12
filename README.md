@@ -1,7 +1,18 @@
+<div align="center">
+  <img src="https://github.com/Takashi069/Takashi069/blob/main/giphy.gif" width="100%" alt="Cool GIF!" />
+</div>
+<br/>
+
 # 💫 Here's Something about me:
 🔭 I’m currently engaged in web development with a focus on learning backend services <br>👯 I’m open to collaborate on any project web related<br>🤝 Any suggestions and tips on backend development would be helpful<br>🌱 I’m currently learning about machine learning 🤖 and how to tie it with web development<br>💬 Ask me about anything web related and I'll try to help<br>⚡ Here's a random fact about me ➡️ I cannot swim 🌊 (yet 😅)
+> ⚔️ Another Fun Fact ⚔️<br>
+> Is often inspired by: 
+<div align="center">
+  <img src="https://github.com/Takashi069/Takashi069/blob/main/jin-sakai.gif" alt="Samurai!" />
+</div>
+<br/>
 
-<br>Moreover, I'm also into touch typing ⌨️ and trying to improve 📈.
+<br> **PS:** I'm also into touch typing ⌨️ and trying to improve 📈.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/takashi_sensei69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-harikumar-a89b93211/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BrainList) 
